@@ -1,0 +1,74 @@
+Week 1 Quiz
+LATEST SUBMISSION GRADE
+
+1.Question 1
+The diagram for traditional programming had Rules and Data In, but what came out?
+Machine Learning
+Bugs
+Answers
+Binary
+
+Correct: Answer
+
+2.Question 2
+The diagram for Machine Learning had Answers and Data In, but what came out?
+Binary
+Models
+Bugs
+Rules
+
+Correct:Rules
+
+3.Question 3
+When I tell a computer what the data represents (i.e. this data is for walking, this data is for running), what is that process called?
+Programming the Data
+Labelling the Data
+Learning the Data
+Categorizing the Data
+
+Correct:Learning the Data
+
+4.Question 4
+What is a Dense?
+A layer of disconnected neurons
+A layer of connected neurons
+Mass over Volume
+A single neuron
+
+Correct:A layer of connected neurons
+
+5.Question 5
+What does a Loss function do?
+Figures out if you win or lose
+Measures how good the current ‘guess’ is
+Generates a guess
+Decides to stop training a neural network
+
+Correct:Measures how good the current ‘guess’ is
+
+6.Question 6
+What does the optimizer do?
+Measures how good the current guess is
+Decides to stop training a neural network
+Figures out how to efficiently compile your code
+Generates a new and improved guess
+
+Correct:Generates a new and improved guess
+
+7.Question 7
+What is Convergence?
+A programming API for AI
+The process of getting very close to the correct answer
+A dramatic increase in loss
+The bad guys in the next ‘Star Wars’ movie
+
+Correct:The process of getting very close to the correct answer
+
+8.Question 8
+What does model.fit do?
+It trains the neural network to fit one set of values to another
+It determines if your activity is good for your body
+It makes a model fit available memory
+It optimizes an existing model
+
+Correct:It trains the neural network to fit one set of values to another
